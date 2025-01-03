@@ -43,7 +43,7 @@ Sou apaixonado por tecnologia e programação, sempre em busca de aprender e evo
 
 ## 🌐 Conecte-se Comigo!
 
-- 📧 **E-mail:** cassiomarquesreigotto@gmail.com
+- 📧 **E-mail:** cassio.reigotto@outlook.com
 - 🔗 [**LinkedIn**](www.linkedin.com/in/cassio-reigotto-21a361190)  
 - 🖥️ [**Meu GitHub**](https://github.com/1nf0n4m3)
 
