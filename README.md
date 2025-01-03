@@ -44,17 +44,17 @@ Sou apaixonado por tecnologia e programação, sempre em busca de aprender e evo
 ## 🌐 Conecte-se Comigo!
 
 - 📧 **E-mail:** cassiomarquesreigotto@gmail.com
-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/cassiomarquesreigotto)  
-- 🖥️ [**Meu GitHub**](https://github.com/seu_usuario)
+- 🔗 [**LinkedIn**](www.linkedin.com/in/cassio-reigotto-21a361190)  
+- 🖥️ [**Meu GitHub**](https://github.com/1nf0n4m3)
 
 ---
 
 ## 🌟 Últimos Projetos
 
-- **[Calculadora de IMC](https://github.com/seu_usuario/IMC)**  
+- **[Calculadora de IMC](https://github.com/1nf0n4m3/IMC.git)**  
   Um projeto em C# para calcular e classificar o Índice de Massa Corporal (IMC).
 
-- **[Portfólio Pessoal](https://github.com/seu_usuario/Portfolio)**  
+- **[Portfólio Pessoal](Ainda em processo)**  
   Página desenvolvida com HTML5, CSS3 e JavaScript para destacar habilidades e projetos.
 
 ---
